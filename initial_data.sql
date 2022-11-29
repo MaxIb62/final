@@ -1,3 +1,5 @@
+USE VentaConsolas;
+
 INSERT INTO PAISES (NOMBRE, DOMINIO) VALUES
   ("Afganistán","AF"),
   ("Albania","AL"),

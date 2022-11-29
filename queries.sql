@@ -1,3 +1,5 @@
+USE VentaConsolas;
+
 /* Empresas */
 
 /* Crear una empresa */
